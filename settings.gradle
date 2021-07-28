@@ -1,0 +1,2 @@
+rootProject.name = "CalculaNotasKotlin"
+include ':app'
